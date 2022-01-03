@@ -1,5 +1,5 @@
 # HiruNews_Scraper
-This is a very simple python script that can scrape the hirunews.lk It scrapes and stores the obtained data in a text file.
+This is a very simple python script that can scrape the [HiruNews](https://www.hirunews.lk) It scrapes and stores the obtained data in a text file.
 This script was developed to obtain Sinhalese language data for training Sinhalese NLP models.
 
 # How to use:
